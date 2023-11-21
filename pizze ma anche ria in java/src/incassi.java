@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 public class incassi {
     private int incassi;
     private int venduti;
-    private int 
+   
 
 public void orario(){
 
